@@ -4,7 +4,9 @@
 
 ![Visitantes: 12K+](https://img.shields.io/badge/Visitantes-12K+-ff9f43)
 
-![Actualizado: Agosto 2025](https://img.shields.io/badge/Actualizado-Agosto_2025-3498db)**Bienvenidos a EduLibre**\
+![Actualizado: Agosto 2025](https://img.shields.io/badge/Actualizado-Agosto_2025-3498db)
+
+**Bienvenidos a EduLibre**
 
 
  
