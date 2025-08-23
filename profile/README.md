@@ -29,6 +29,11 @@ Hacer que la educación sea accesible para todos con recursos gratuitos y de alt
 **Próximos Pasos**\
 ¡Comienza a explorar nuestros proyectos hoy! Visita nuestro proyecto principal, **AprendeFácil**, para iniciar tu aprendizaje.
 
+[![Go to Details](https://img.shields.io/badge/Go_to_Details-NOW-blueviolet)](https://github.com/EduLibreVPN/.github)  
+- [![Start Guide](https://img.shields.io/badge/Start_Guide-NOW-blueviolet)](https://github.com/EduLibreVPN/AprendeF-cilVPN)
+
+
+
 ---
 
 ## 🔍 Palabras Clave SEO
