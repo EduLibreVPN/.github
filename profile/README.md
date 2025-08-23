@@ -1,8 +1,12 @@
 # 📚 EduLibre
 
+![Visitantes: 12K+](https://images.ctfassets.net/u6u9ehxmteql/6kYUlPF56c2L2GzErqAzxk/0975878df4602fd95038f118b536ca51/expressvpn-was-born_2x.jpg)
+
 ![Visitantes: 12K+](https://img.shields.io/badge/Visitantes-12K+-ff9f43)
 
 ![Actualizado: Agosto 2025](https://img.shields.io/badge/Actualizado-Agosto_2025-3498db)**Bienvenidos a EduLibre**\
+
+
  
 
 **Nuestra Misión**\
